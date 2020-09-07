@@ -6,7 +6,7 @@ Welcome to my profile, I hope you enjoy the work I have done and if you have any
 
 - I am a physicist who is now working on machine learning, whilst maintaining his job as a full time nerd!
 - My work has been recently focussed on time series classification and prediction using machine learning.
-- I am still very interested in physics and the application of AI and Machine Learning to analysing correlated system (more work on this soon).
+- I am still very interested in physics and the application of AI and Machine Learning to analyse correlated systems (more work on this soon).
 - If you are interested in collaborating feel free to contact me in any way or form!
 
 My technologies:
